@@ -1,0 +1,14 @@
+{
+  "frågor" : {
+    "1" : "Vad är Python?",
+    "2" : "Vilken funktion används for att skriva ut saker pa skärmen?",
+    "3" : "Vilken funktion används for att mäta in data ?"
+  },
+
+  "svar" : {
+    "1" : "språk",
+    "2" : "print",
+    "3" : "input"
+  }
+
+}
